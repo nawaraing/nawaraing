@@ -1,5 +1,3 @@
-# 프젝 아이디어
-+ 공유기 ip를 이용하여, 나만의 서버 열기
 
 <!--
 **nawaraing/nawaraing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
