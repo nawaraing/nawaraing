@@ -3,34 +3,48 @@
 -->
 <!--방문자수-->
 <div align=center>
-  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnawaraing%2Fnawaraing&count_bg=%2347BAE7&title_bg=%23C8DFEB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2A93CD&random=false&width=435&lines=Hello%2C+I'm+nawaraing!)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2A93CD&random=false&width=435&lines=+Nice+to+meet+you!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2A93CD&random=false&width=380&lines=Welcome+Junkang's+space!)](https://git.io/typing-svg)<br>
 
 ![nawaraing's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=tokyonight)
 
-## Main Language<br>
-<div style="display: flex; align-items: flex-start;">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="100" height="100" />
-</div><br>
-
-
 ## My Skill
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&theme=dracula)
+
+### Language
 <div>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  </div>
+  <img src="https://img.shields.io/badge/java-5382A1?style=for-the-badge&logoColor=white"> 
+  <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/c%2b%2b-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
+</div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&theme=dracula)
+### DBMS
+<div>
+  <img src="https://img.shields.io/badge/oracle-F80102?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
 
-## Contacts
+### OS
+<div>
+  <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white">
+  <img src="https://img.shields.io/badge/centos-262577?style=for-the-badge&logo=centos&logoColor=white">
+  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div>
 
-<a href="mailto:nawaddaing@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
-<a href="https://just-coding-room.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ffffff?style=soft-square&logo=Github&logoColor=black"/></a>
+### etc
+<div>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ## Contribution
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## Contacts
+
+<a href="mailto:nawaddaing@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
+<a href="https://just-coding-room.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=soft-square&logo=tistory&logoColor=white"/></a>
+
+</div>
