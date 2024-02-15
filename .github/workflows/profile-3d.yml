@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4.1.1
       - uses: nawaraing/github-profile-3d-contrib@0.7.2
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: nawaraing
       - name: Commit & Push
         run: |
