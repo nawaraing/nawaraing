@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=33B2C8&random=false&width=380&lines=Welcome+Junkang's+space!)](https://git.io/typing-svg)<br>
 
-![nawaraing's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=tokyonight)
+![nawaraing's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark)
 
 ## My Skill
 
