@@ -1,12 +1,14 @@
 <!--
 **nawaraing/nawaraing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<!--방문자수-->
 <div align=center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=33B2C8&random=false&width=380&lines=Welcome+Junkang's+space!)](https://git.io/typing-svg)<br>
 
 ![nawaraing's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=just_junyan)](https://solved.ac/just_junyan/)
+
 
 ## My Skill
 
