@@ -3,9 +3,9 @@
 -->
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Welcome+Junkang's+space!&fontSize=50&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Welcome+JunKang's+space!&fontSize=50&fontColor=FFFFFF)
 
-![nawaraing's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=4169E1)
+![nawaraing's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=4169E1&title_color=6495ED)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=just_junyan)](https://solved.ac/just_junyan/)
 
