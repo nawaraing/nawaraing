@@ -5,19 +5,20 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Welcome+JunKang's+space!&fontSize=50&fontColor=FFFFFF)
 
-![nawaraing's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=4169E1&title_color=6495ED)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=just_junyan)](https://solved.ac/just_junyan/)
-
-
 ## My Skill
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&theme=dracula)
+<div>
+
+<img height="180px;" src="https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=4169E1&title_color=6495ED">
+<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&theme=dracula">
+
+</div>
 
 ### Language
 <div>
   <img src="https://img.shields.io/badge/java-5382A1?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/c%2b%2b-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
 </div>
 
@@ -38,6 +39,12 @@
 ### etc
 <div>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+## Algorithm
+<div>
+  <img height="140px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=just_junyan">
+  <img height="140px" src="https://cf.leed.at?id=nawaraing">
 </div>
 
 ## Contribution
