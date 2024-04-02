@@ -3,14 +3,14 @@
 -->
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Welcome+JunKang's+space!&fontSize=50&fontColor=FFFFFF)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Welcome+JunKang's+space!&fontSize=50&fontColor=FFFFFF" width="100%" />
 
 ## My Skill
 
 <div>
 
-<img height="180px;" src="https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=4169E1&title_color=6495ED">
-<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&theme=dracula">
+<img height="180px;" src="https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=FFFFFF&title_color=00FFFF">
+<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&&title_color=00FFFF&theme=dark">
 
 </div>
 
@@ -49,11 +49,17 @@
 
 ## Contribution
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawaraing&theme=react-dark&bg_color=20232a&hide_border=true&line=00FFFF&color=00FFFF" width=94%/>
+</a>
+
+<!-- <img src="./profile-3d-contrib/profile-night-view.svg" width="94%"/> -->
 
 ## Contacts
 
 <a href="mailto:nawaddaing@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
 <a href="https://just-coding-room.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=soft-square&logo=tistory&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,10:3AB3B5,30:277C7F,75:FFFFFF,100:3572A5&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
