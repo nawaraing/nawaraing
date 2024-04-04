@@ -5,6 +5,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Welcome+JunKang's+space!&fontSize=50&fontColor=FFFFFF" width="100%" />
 
+## Career & Education
+
+### 🏫 Department of Mathematics at Inha University
+###### ( 2014.03 ~ 2022.02 )
+
+### 🖥️ 42Seoul
+###### ( 2019.12 ~ 2021.07 )
+
+### 💼 C-ondream Ltd.
+###### ( 2021.07 ~ 2023.05 )
+
+### 💻 IT Korea
+###### ( 2023.11 ~ 2024.05 )
+
 ## My Skill
 
 <div>
