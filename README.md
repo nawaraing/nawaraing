@@ -14,6 +14,13 @@
 
 </div>
 
+### Framework & Library
+<div>
+  <img src="https://img.shields.io/badge/spring%20boot3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
+
 ### Language
 <div>
   <img src="https://img.shields.io/badge/java-5382A1?style=for-the-badge&logoColor=white"> 
@@ -39,6 +46,7 @@
 ### etc
 <div>
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/apache%20tomcat10-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
 ## Algorithm
