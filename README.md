@@ -7,7 +7,7 @@
 
 ## Career & Education
 
-### 💻 IT Korea
+### 💻 Korea IT Academy
 ###### ( 2023.11 ~ 2024.05 )
 
 ### 💼 C-ondream Ltd.
