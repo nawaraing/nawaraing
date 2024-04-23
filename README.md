@@ -66,7 +66,7 @@
 ## Algorithm
 <div>
   <img height="140px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=just_junyan">
-  <img height="140px" src="https://cf.leed.at?id=nawaraing">
+<!--   <img height="140px" src="https://cf.leed.at?id=nawaraing"> -->
 </div>
 
 ## Contribution
