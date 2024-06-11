@@ -22,15 +22,14 @@
 ## My Skill
 
 <div>
-
-<img height="180px;" src="https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=FFFFFF&title_color=00FFFF">
-<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&&title_color=00FFFF&theme=dark">
-
+  <img height="180px;" src="https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=FFFFFF&title_color=00FFFF">
+  <img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&&title_color=00FFFF&theme=dark">
 </div>
 
 ### Framework & Library
 <div>
   <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
@@ -39,6 +38,7 @@
 <div>
   <img src="https://img.shields.io/badge/java-5382A1?style=for-the-badge&logoColor=white"> 
   <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/c%2b%2b-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -80,8 +80,8 @@
 
 ## Contacts
 
-<a href="mailto:nawaddaing@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-de0101?style=soft-square&logo=gmail&logoColor=white"/></a>
-<a href="https://just-coding-room.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=soft-square&logo=tistory&logoColor=white"/></a>
+<a href="https://velog.io/@nawaraing/posts" target="_blank"><img width="52" alt="image" src="https://github.com/nawaraing/nawaraing/assets/59286081/42881b45-a4af-4506-9e7e-d74cd24edd50"></a>
+<a href="mailto:nawaddaing@gmail.com" target="_blank"><img width="52" alt="image" src="https://github.com/nawaraing/nawaraing/assets/59286081/73a48752-5d73-4284-98b8-4c26effa164a"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,10:3AB3B5,30:277C7F,75:FFFFFF,100:3572A5&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
