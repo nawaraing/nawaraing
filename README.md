@@ -7,6 +7,9 @@
 
 ## Career & Education
 
+### 💻 Promisope Ltd.
+###### ( 2024.07 ~ 2024.08 )
+
 ### 💻 Korea IT Academy
 ###### ( 2023.11 ~ 2024.05 )
 
