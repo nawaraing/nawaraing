@@ -83,7 +83,6 @@
 
 ## Contacts
 
-<a href="https://velog.io/@nawaraing/posts" target="_blank"><img width="52" alt="image" src="https://github.com/nawaraing/nawaraing/assets/59286081/42881b45-a4af-4506-9e7e-d74cd24edd50"></a>
 <a href="mailto:nawaddaing@gmail.com" target="_blank"><img width="52" alt="image" src="https://github.com/nawaraing/nawaraing/assets/59286081/73a48752-5d73-4284-98b8-4c26effa164a"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,10:3AB3B5,30:277C7F,75:FFFFFF,100:3572A5&height=40&section=footer&text=&fontSize=0" width="100%"/>
