@@ -24,10 +24,10 @@
 
 ## My Skill
 
-<div>
+<!-- <div>
   <img height="180px;" src="https://github-readme-stats.vercel.app/api?username=nawaraing&show_icons=true&theme=dark&icon_color=FFFFFF&title_color=00FFFF">
   <img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawaraing&layout=compact&&title_color=00FFFF&theme=dark">
-</div>
+</div> -->
 
 ### Framework & Library
 <div>
